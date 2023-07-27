@@ -1,8 +1,13 @@
-# React + Vite
+# Airbnb_beginner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A single page clone of airbnb for beginners in React.
 
-Currently, two official plugins are available:
+<img width="961" alt="airbnb clone" src="https://github.com/P0OJ/Airbnb_beginner/assets/137164301/73ee0f24-671f-4fc1-b60d-ca437f5e9476">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# How to view the application:
+
+1. Download the code or clone the repository.
+2. Open the folder in terminal and enter the following commands:
+   npm i
+   npm run build
+   npm run dev
